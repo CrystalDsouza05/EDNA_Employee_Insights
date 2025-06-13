@@ -4,7 +4,7 @@
 
 This Employee Insights dashboard provides a comprehensive view of workforce distribution, compensation, tenure, and hiring trends for the Hamilton business center.
 
-## Key Insights:
+## Key Insights: as per the the image below
 
 **Employee Demographics Breakdown**
 
@@ -56,5 +56,9 @@ This Employee Insights dashboard provides a comprehensive view of workforce dist
 **Why This Dashboard Is Valuable:**
 It enables HR leaders to analyze workforce distribution, optimize hiring strategies, manage leave balances, and monitor salary costs, ensuring efficient resource allocation and planning.
 
-**Snap of Dashboard Page**
+**Snapshots of Dashboard Page**
 ![image](https://github.com/user-attachments/assets/23c1451b-2b9b-483c-a82e-3dc3a93a7fed)
+
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/8bdd0be4-f5e1-44aa-9c61-54dddf4670a0)
+
