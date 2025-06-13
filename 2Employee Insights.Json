@@ -1,0 +1,13 @@
+{
+
+"name": "Employees",
+
+"dataColors": [ "#047CC4", "#A2D1EC", "#04348E", "#5987A8", "#A5B4D4 ", "#245448", "#001333", "#8A92A1" ],
+
+"background":"#FFFFFF",
+
+"foreground": "#1b7eac",
+
+"tableAccent":"#5cbae5"
+
+}
